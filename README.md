@@ -1,4 +1,6 @@
-# ZomatoStockPredictionIn this project, we delve into the fascinating realm of stock market analysis using Python. Our dataset comprises historical stock data of Zomato, a leading online food delivery platform. Through meticulous data analysis and visualization, we aim to uncover insights into the company's stock performance over time.
+# ZomatoStockPrediction
+
+In this project, we delve into the fascinating realm of stock market analysis using Python. Our dataset comprises historical stock data of Zomato, a leading online food delivery platform. Through meticulous data analysis and visualization, we aim to uncover insights into the company's stock performance over time.
 
 Key Findings:
 
